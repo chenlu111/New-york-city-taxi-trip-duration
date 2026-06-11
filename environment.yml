@@ -1,0 +1,12 @@
+name: taxi-duration
+dependencies:
+  - python=3.9
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - pip
+  - pip:
+    - geopy
+    - jupyter
